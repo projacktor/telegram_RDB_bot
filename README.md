@@ -18,4 +18,4 @@ And as well you can add new book to database
 ![add_screen](imges/adding_screen.png)
 ![GS_screen](imges/GS_screen.png)
 
-### Link to [Google Sheet](https://docs.google.com/spreadsheets/d/1Q9bY3Vlc-He5eyyaZYllSE1h7XjRbduN2wR1zm4v31k/edit#gid=1731349595) (cannot edit)
+### Link to [Google Sheet](https://docs.google.com/spreadsheets/d/1Q9bY3Vlc-He5eyyaZYllSE1h7XjRbduN2wR1zm4v31k/edit#gid=1731349595) (cannot be edited)
